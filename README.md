@@ -7,7 +7,7 @@ This project is a simple and secure **user authentication system** built using *
 > 🔄 This project is a **continuation of my previous task**, where I built a responsive landing page UI.
 
 ---
-
+![](/Screenshot%202025-06-09%20020810.png)
 ## ✨ Features
 
 - ✅ **User Sign Up Page**
