@@ -7,17 +7,21 @@ This project is a simple and secure **user authentication system** built using *
 > 🔄 This project is a **continuation of my previous task**, where I built a responsive landing page UI.
 
 ---
-![](/Screenshot%202025-06-09%20020810.png)
+
+
+
+
 ## ✨ Features
 
 - ✅ **User Sign Up Page**
   - Collects username, email, and password.
   - Stores data securely in MySQL.
-  
-- 🔐 **User Login Page**
+ ![](Screenshot%202025-06-09%20020847.png)
+- 🔐 **User Signin Page**
   - Authenticates credentials against the database.
   - Redirects users to a protected welcome page.
 
+ ![](/Screenshot%202025-06-09%20020810.png)
 - 🔒 **Security Measures**
   - Passwords hashed using `password_hash()`.
   - Prepared statements used to prevent SQL Injection.
